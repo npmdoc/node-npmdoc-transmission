@@ -1,6 +1,6 @@
 # npmdoc-transmission
 
-#### api documentation for  [transmission (v0.4.9)](https://github.com/FLYBYME/node-transmission#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-transmission.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-transmission) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-transmission.svg)](https://travis-ci.org/npmdoc/node-npmdoc-transmission)
+#### basic api documentation for  [transmission (v0.4.9)](https://github.com/FLYBYME/node-transmission#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-transmission.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-transmission) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-transmission.svg)](https://travis-ci.org/npmdoc/node-npmdoc-transmission)
 
 #### API client for transmissionbt
 
